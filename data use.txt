@@ -1,0 +1,1 @@
+to use data goto "fraud data" folder and extract "Fraud.part01.rar" and then place the "Fraud.csv" file in the root folder.
